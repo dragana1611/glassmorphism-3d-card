@@ -2,5 +2,4 @@
 glassmorphism-card
 
 
-![glassmorphism-3d-card](https://github.com/dragana1611/glassmorphism-3d-card/assets/77893122/313c91a6-98e1-4983-a79f-d5c695897b7e)
-
+![glassmorphism-3d-card] (https://user-images.githubusercontent.com/77893122/268391872-b0fcabbc-bf89-4d09-ac84-f0fefe70671b.mov)

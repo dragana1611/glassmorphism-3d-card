@@ -19,6 +19,7 @@ body {
   transform-style: preserve-3d;
   box-shadow: rgba(5, 71, 17, 0) 40px 50px 25px -40px,
     rgba(5, 71, 17, 0.2) 0px 25px 25px -5px;
+  backface-visibility: hidden;
   pointer-events: none;
   user-select: none;
 }
